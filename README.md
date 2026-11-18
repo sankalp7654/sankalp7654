@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3b63,100:70a5fd&height=200&section=header&text=Sankalp%20Saxena&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%26%20DevOps%20%E2%80%A2%20Guitarist&descAlignY=58&descSize=18&animation=fadeIn" alt="Sankalp Saxena" width="100%" />
+  <img src="assets/header.svg" alt="Sankalp Saxena" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sankalp7654">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Sankalp;Software+Engineer+%40+Arctic+Wolf;Ex-Rubrikan;Cloud+%E2%80%A2+Kubernetes+%E2%80%A2+Automation;Self-taught+guitarist+%F0%9F%8E%B8" alt="Typing SVG" />
+    <img src="assets/typing.svg" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,17 +30,28 @@
 ### 🧑‍💻 About me
 
 ```yaml
-name:      Sankalp Saxena
-location:  India 🇮🇳
+name:       Sankalp Saxena
+location:   India 🇮🇳
 work:
-  now:     "@rtkwlf — Arctic Wolf"
-  before:  "@rubrikinc — Rubrik"
-focus:     [Backend, Cloud Infrastructure, Kubernetes, CI/CD, Automation]
-off_hours: "Self-taught guitarist 🎸 — covers on YouTube @sankalpsaxena"
-reach_me:  "sankalp.saxena.sta@gmail.com"
+  now:      "AI Platform Team @ Arctic Wolf (@rtkwlf)"
+  before:   "@rubrikinc — Rubrik"
+building:   [LLM Gateway, Agentic workflows, MCP servers, LLM observability]
+lang_stack: [LangChain, LangGraph, Langfuse, LiteLLM, MCP]
+focus:      [AI Platform, Backend, Cloud Infrastructure, Kubernetes, Automation]
+off_hours:  "Self-taught guitarist 🎸 — covers on YouTube @sankalpsaxena"
+reach_me:   "sankalp.saxena.sta@gmail.com"
 ```
 
 ### 🛠️ Tech stack
+
+<p align="center">
+  <b>🤖 AI &amp; LLM Platform</b><br/><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Langfuse-0A60FF?style=for-the-badge" alt="Langfuse" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/LiteLLM%20Gateway-6E56CF?style=for-the-badge" alt="LiteLLM Gateway" />
+</p>
 
 <p align="center">
   <b>Languages & Frameworks</b><br/><br/>
@@ -106,7 +117,7 @@ reach_me:  "sankalp.saxena.sta@gmail.com"
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sankalp7654&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sankalp7654&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp7654&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
 </p>
 
@@ -126,5 +137,5 @@ reach_me:  "sankalp.saxena.sta@gmail.com"
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:2f3b63,100:1a1b27&height=120&section=footer" alt="footer" width="100%" />
+  <img src="assets/footer.svg" alt="footer" width="100%" />
 </p>
