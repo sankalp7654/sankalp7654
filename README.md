@@ -1,35 +1,92 @@
-<h1 align="center">Hi 👋, I'm Sankalp Saxena</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp7654&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp7654" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp7654" alt="sankalp7654" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sankalp_saxena" target="blank"><img src="https://img.shields.io/twitter/follow/sankalp_saxena?logo=twitter&style=for-the-badge" alt="sankalp_saxena" /></a> </p>
-
-- 📫 How to reach me **sankalp.saxena.sta@gmail.com**
-
-- ⚡ Fun fact **I am a self taught guitarist. Do visit my youtube channel and watch my guitar covers.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sankalp7654" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sankalp7654" height="30" width="40" /></a>
-<a href="https://twitter.com/sankalp_saxena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sankalp_saxena" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sankalpsaxena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sankalpsaxena" height="30" width="40" /></a>
-<a href="https://instagram.com/acoustic_sankalp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="acoustic_sankalp" height="30" width="40" /></a>
-<a href="https://medium.com/@sankalp_saxena" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sankalp_saxena" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucf3drhujzow0erof7q6_tkg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucf3drhujzow0erof7q6_tkg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/acoustic_sankalp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="acoustic_sankalp" height="30" width="40" /></a>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3b63,100:70a5fd&height=200&section=header&text=Sankalp%20Saxena&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%26%20DevOps%20%E2%80%A2%20Guitarist&descAlignY=58&descSize=18&animation=fadeIn" alt="Sankalp Saxena" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/sankalp7654">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Sankalp;Software+Engineer+%40+Arctic+Wolf;Ex-Rubrikan;Cloud+%E2%80%A2+Kubernetes+%E2%80%A2+Automation;Self-taught+guitarist+%F0%9F%8E%B8" alt="Typing SVG" />
+  </a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sankalpsaxe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sankalpsaxe" /></a></p><br><br>
+<p align="center">
+  <a href="https://linkedin.com/in/sankalpsaxena"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/sankalp_saxena"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://medium.com/@sankalp_saxena"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://dev.to/sankalp7654"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://instagram.com/acoustic_sankalp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.hackerrank.com/acoustic_sankalp"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="mailto:sankalp.saxena.sta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalp7654&show_icons=true&locale=en&layout=compact" alt="sankalp7654" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sankalp7654&label=Profile%20views&color=70a5fd&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/sankalp7654?tab=followers"><img src="https://img.shields.io/github/followers/sankalp7654?label=Followers&style=flat-square&color=70a5fd" alt="Followers" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalp7654&show_icons=true&locale=en" alt="sankalp7654" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalp7654&" alt="sankalp7654" /></p>
+### 🧑‍💻 About me
+
+```yaml
+name:      Sankalp Saxena
+location:  India 🇮🇳
+work:
+  now:     "@rtkwlf — Arctic Wolf"
+  before:  "@rubrikinc — Rubrik"
+focus:     [Backend, Cloud Infrastructure, Kubernetes, CI/CD, Automation]
+off_hours: "Self-taught guitarist 🎸 — covers on Instagram @acoustic_sankalp"
+reach_me:  "sankalp.saxena.sta@gmail.com"
+```
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <b>Languages & Frameworks</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,flask&theme=dark" alt="Languages" />
+</p>
+
+<p align="center">
+  <b>Cloud & DevOps</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,kubernetes,jenkins,nginx,linux&theme=dark" alt="Cloud & DevOps" />
+</p>
+
+<p align="center">
+  <b>Databases & Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,postman,vscode&theme=dark" alt="Databases & Tools" />
+</p>
+
+### 📌 Featured projects
+
+<p align="center">
+  <a href="https://github.com/sankalp7654/Decentralised-Twitter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp7654&repo=Decentralised-Twitter&theme=tokyonight&hide_border=true&border_radius=10" alt="Decentralised-Twitter" /></a>
+  <a href="https://github.com/sankalp7654/NSFW-Sense"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp7654&repo=NSFW-Sense&theme=tokyonight&hide_border=true&border_radius=10" alt="NSFW-Sense" /></a>
+  <a href="https://github.com/sankalp7654/IMDB-VS-FilesystemDB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp7654&repo=IMDB-VS-FilesystemDB&theme=tokyonight&hide_border=true&border_radius=10" alt="IMDB-VS-FilesystemDB" /></a>
+  <a href="https://github.com/sankalp7654/AMS-Aikya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp7654&repo=AMS-Aikya&theme=tokyonight&hide_border=true&border_radius=10" alt="AMS-Aikya" /></a>
+</p>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sankalp7654&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp7654&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sankalp7654&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalp7654&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Contribution graph" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! If you like my work, you can fuel the next commit ☕</i><br/><br/>
+  <a href="https://www.buymeacoffee.com/sankalpsaxe"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:2f3b63,100:1a1b27&height=120&section=footer" alt="footer" width="100%" />
+</p>
