@@ -14,6 +14,7 @@
   <a href="https://twitter.com/sankalp_saxena"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://medium.com/@sankalp_saxena"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://dev.to/sankalp7654"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://www.youtube.com/@sankalpsaxena"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://instagram.com/acoustic_sankalp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.hackerrank.com/acoustic_sankalp"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="mailto:sankalp.saxena.sta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -35,7 +36,7 @@ work:
   now:     "@rtkwlf — Arctic Wolf"
   before:  "@rubrikinc — Rubrik"
 focus:     [Backend, Cloud Infrastructure, Kubernetes, CI/CD, Automation]
-off_hours: "Self-taught guitarist 🎸 — covers on Instagram @acoustic_sankalp"
+off_hours: "Self-taught guitarist 🎸 — covers on YouTube @sankalpsaxena"
 reach_me:  "sankalp.saxena.sta@gmail.com"
 ```
 
@@ -63,6 +64,43 @@ reach_me:  "sankalp.saxena.sta@gmail.com"
   <a href="https://github.com/sankalp7654/NSFW-Sense"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp7654&repo=NSFW-Sense&theme=tokyonight&hide_border=true&border_radius=10" alt="NSFW-Sense" /></a>
   <a href="https://github.com/sankalp7654/IMDB-VS-FilesystemDB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp7654&repo=IMDB-VS-FilesystemDB&theme=tokyonight&hide_border=true&border_radius=10" alt="IMDB-VS-FilesystemDB" /></a>
   <a href="https://github.com/sankalp7654/AMS-Aikya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sankalp7654&repo=AMS-Aikya&theme=tokyonight&hide_border=true&border_radius=10" alt="AMS-Aikya" /></a>
+</p>
+
+### 🎸 Most-watched guitar covers
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=haXZNSRdarw"><img src="https://img.youtube.com/vi/haXZNSRdarw/mqdefault.jpg" alt="O O Jane Jana · Guitar Intro" width="100%" /></a><br/>
+      <sub><b>O O Jane Jana · Guitar Intro</b><br/>▶ 10K views</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=byptruCmelo"><img src="https://img.youtube.com/vi/byptruCmelo/mqdefault.jpg" alt="Sun Raha Hai Na Tu · Rubrik Satire Club" width="100%" /></a><br/>
+      <sub><b>Sun Raha Hai Na Tu · Rubrik Satire Club</b><br/>▶ 8.1K views</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=HcRxX1ADo14"><img src="https://img.youtube.com/vi/HcRxX1ADo14/mqdefault.jpg" alt="Zaroorat · Guitar Solo Tabs" width="100%" /></a><br/>
+      <sub><b>Zaroorat · Guitar Solo Tabs</b><br/>▶ 6.1K views</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=_-a2Q_UPvWo"><img src="https://img.youtube.com/vi/_-a2Q_UPvWo/mqdefault.jpg" alt="Munjane Manjalli · Flute & Guitar" width="100%" /></a><br/>
+      <sub><b>Munjane Manjalli · Flute & Guitar</b><br/>▶ 3.3K views</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=WlpRpSJV2pE"><img src="https://img.youtube.com/vi/WlpRpSJV2pE/mqdefault.jpg" alt="Ibanez SA260FM · Sound Demo" width="100%" /></a><br/>
+      <sub><b>Ibanez SA260FM · Sound Demo</b><br/>▶ 2.2K views</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=qo8LFOXjsLo"><img src="https://img.youtube.com/vi/qo8LFOXjsLo/mqdefault.jpg" alt="Heavenly · Cigarettes After Sex" width="100%" /></a><br/>
+      <sub><b>Heavenly · Cigarettes After Sex</b><br/>▶ 1.4K views</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://www.youtube.com/@sankalpsaxena"><img src="https://img.shields.io/badge/More%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel" /></a>
 </p>
 
 ### 📊 GitHub stats
